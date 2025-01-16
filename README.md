@@ -72,7 +72,7 @@ The application includes user authentication, allowing users to manage only thei
 ### 1. Backend:
    - NodeJs
    - MongoDB (Database)
-   - 
+
 ### 2. Frontend:
    - React.js
 
@@ -81,6 +81,12 @@ The application includes user authentication, allowing users to manage only thei
 
 ---
 ---
+
+## Deployment
+
+### 1. Frontend Deployed on vercel
+
+https://interview-experiences.vercel.app/
 
 
 
